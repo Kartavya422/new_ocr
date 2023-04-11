@@ -1,0 +1,8 @@
+python-slugify==7.0.0
+Wand==0.5.0
+PyPDF2==1.26.0
+pdfrw==0.4
+opencv-contrib-python==4.7.0.68
+kafka-python
+imutils==0.5.4
+ipython==8.8.0
